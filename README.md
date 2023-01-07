@@ -34,12 +34,12 @@ Getting started with the Webdeck Player is very simple. Follow this tutorial and
 2. Unzip the file and put the `webdeck-player` folder into your website root folder.
 
 3. a. **Run the player on a separate browser window (recommended)**
-  > The player is designed to work inside a container of 600x250 pixels. You can make the player open in a new browser window - it will look great and visitors can navigate the rest of your site while keeping the player running! To do it, place a tag like the following in your site:  
+  - The player is designed to work inside a container of 600x250 pixels. You can make the player open in a new browser window - it will look great and visitors can navigate the rest of your site while keeping the player running! To do it, place a tag like the following in your site:  
 `<button onclick="window.open('/webdeck-player/index.html', 'Web Deck Player', 'height=250, width=600')">Open Web Deck Player</button>`  
 This code creates a button that will open a window with the specified height and width containing the player.
 
 3. b. **Run the player inside an iframe**
-  > You can also run the player inside a page of your site using an iframe tag. To do it, you can write the following tag in the HTML of your page:  
+  - You can also run the player inside a page of your site using an iframe tag. To do it, you can write the following tag in the HTML of your page:  
 `<iframe src="/webdeck-player/index.html" height="250" width="600"></iframe>`  
 
 ### Adding playlists
