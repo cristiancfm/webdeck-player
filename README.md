@@ -65,4 +65,4 @@ Themes are just a collection of resources (like images or fonts) and a CSS file 
 5. Inside your theme folder, open the `webdeck-player.css` file and modify it to your liking. You can also change the fonts and the images. **Do not rename any image.** Their paths are used in the `script.js` file. The `about.txt` file is for adding a description about the theme and your name.
 
 ## About
-Created by Chris. Licensed under the MIT License.
+Created by Chris. Licensed under the MIT License. Some components of the software such as fonts were created by others. In these cases, attribution was given for their work.
