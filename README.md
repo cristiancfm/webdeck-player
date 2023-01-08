@@ -52,8 +52,6 @@ Go to the `script.js` file inside the webdeck-player folder. There you can follo
 
 ### Adding themes
 
-> New themes coming soon...
-
 To add a new theme to the player, copy its folder to the themes folder. Then, open the `script.js` file and add it to the list following the instructions.
 
 ### Creating a new theme
