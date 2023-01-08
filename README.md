@@ -8,6 +8,10 @@ The **Webdeck Player** is a player for Youtube playlists coded entirely in Javas
 
 **Live demo**: https://webdeckplayer.neocities.org
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/cristiancfm/webdeck-player)
+![GitHub all releases](https://img.shields.io/github/downloads/cristiancfm/webdeck-player/total)
+![GitHub](https://img.shields.io/github/license/cristiancfm/webdeck-player)
+
 
 ## Features
 - Play Youtube videos saved in playlists
