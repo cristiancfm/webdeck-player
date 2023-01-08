@@ -34,7 +34,7 @@ Getting started with the Webdeck Player is very simple. Follow this tutorial and
 
 
 ### Installing the player
-1. Go to the Releases section of the Github repository and download the latest version available. You should get a `webdeck-player.zip file`.
+1. Go to the Releases section of the Github repository and download the latest version available. You should get a `webdeck-player-v.X.X.X.zip` file.
 2. Unzip the file and put the `webdeck-player` folder into your website root folder.
 
 3. a. **Run the player on a separate browser window (recommended)**
