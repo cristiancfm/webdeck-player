@@ -10,6 +10,7 @@ The **Webdeck Player** is a player for Youtube playlists coded entirely in Javas
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/cristiancfm/webdeck-player)
 ![GitHub](https://img.shields.io/github/license/cristiancfm/webdeck-player)
+![GitHub all releases downloads](https://img.shields.io/github/downloads/cristiancfm/webdeck-player/total)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://paypal.me/cristiancfm)
 
 
