@@ -45,7 +45,7 @@ This code creates a button that will open a window with the specified height and
 
 3. b. **Run the player inside an iframe**
   - You can also run the player inside a page of your site using an iframe tag. To do it, you can write the following tag in the HTML of your page:  
-`<iframe src="/webdeck-player/index.html" height="250" width="600"></iframe>`  
+`<iframe src="/webdeck-player/index.html" height="250" width="600" scrolling="no"></iframe>`  
 
 ### Adding playlists
 
