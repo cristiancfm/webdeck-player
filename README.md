@@ -12,7 +12,7 @@ The **Webdeck Player** is a player for Youtube playlists coded entirely in Javas
 ![GitHub](https://img.shields.io/github/license/cristiancfm/webdeck-player)
 ![GitHub all releases downloads](https://img.shields.io/github/downloads/cristiancfm/webdeck-player/total)
 
-<a href="https://ko-fi.com/A0A01M2B3Z"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=6" alt="ko-fi" height="35"/></a>
+<a href="https://ko-fi.com/cristiancfm"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=6" alt="ko-fi" height="35"/></a>
 
 ## Features
 - Play Youtube videos saved in playlists
