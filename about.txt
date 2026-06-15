@@ -1,0 +1,6 @@
+Webdeck Player - A Javascript Youtube playlists player for webpages
+MIT License
+Copyright (c) 2022 Chris
+
+Thanks for downloading this software! Check the latest updates at the Github
+repo: https://github.com/cristiancfm/webdeck-player
